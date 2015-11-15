@@ -1,0 +1,5 @@
+what happens when you initialize a repository? and why you need to do it?
+
+a .git is created.  
+
+doing it allow you to version control your changes
