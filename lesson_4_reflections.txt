@@ -9,3 +9,7 @@ forks creates a copy in Github
 clones - download to local
 
 branches - create a new version (bug fix or new function)
+
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+to easily merge
